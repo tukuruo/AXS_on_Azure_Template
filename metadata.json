@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Deploy a Asianux Server4 VM in Japan East",
+  "description": "This template deploy a Asianux server4. VM size : Standard A1, loction : Japan East",
+  "summary": "This template takes a minimum amount of parameters and deploys a Linux VM",
+  "githubUsername": "tukuruo",
+  "dateUpdated": "2015-11-25"
+}
