@@ -30,8 +30,7 @@
       "type": "string",
       "defaultValue": "axs4sp4licazu",
       "allowedValues": [
-        "axs4sp4licazu",
-        "axs7licazu"
+        "axs4sp4licazu"
       ]
     }
   },
