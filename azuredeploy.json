@@ -26,11 +26,12 @@
         "description": "Unique DNS Name for the Public IP used to access the Virtual Machine."
       }
     },
-    "ubuntuOSVersion": {
+    "OSVersion": {
       "type": "string",
       "defaultValue": "axs4sp4licazu",
       "allowedValues": [
-        "axs4sp4licazu"
+        "axs4sp4licazu",
+        "axs7licazu"
       ]
     }
   },
@@ -149,7 +150,7 @@
           "imageReference": {
             "publisher": "[variables('imagePublisher')]",
             "offer": "[variables('imageOffer')]",
-            "sku": "[parameters('ubuntuOSVersion')]",
+            "sku": "[parameters('OSVersion')]",
             "version": "latest"
           },
           "osDisk": {
