@@ -14,7 +14,7 @@
     "dnsNameForPublicIP": {
       "value": "uniqueDNS"
     },
-    "ubuntuOSVersion": {
+    "OSVersion": {
       "value": "axs4sp4licazu"
     }
   }
