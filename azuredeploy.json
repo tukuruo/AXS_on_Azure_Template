@@ -47,7 +47,7 @@
     "publicIPAddressName": "myPIP",
     "publicIPAddressType": "Dynamic",
     "vmStorageAccountContainerName": "vhds",
-    "vmName": "TA-N-TMPL",
+    "vmName": "AsianuxServer4-SP4",
     "vmSize": "Standard_A1",
     "virtualNetworkName": "MyVNET",
     "vnetID": "[resourceId('Microsoft.Network/virtualNetworks',variables('virtualNetworkName'))]",
